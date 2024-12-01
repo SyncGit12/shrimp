@@ -1,0 +1,41 @@
+{
+	"storyName": "bonus",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "st",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"dandys-world-song",
+			"d",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"concealed",
+			"a",
+			[
+				40,
+				20,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
