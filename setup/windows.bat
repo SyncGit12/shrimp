@@ -26,5 +26,6 @@ haxelib git hxCodec https://github.com/SyncGit12/hxCodec
 haxelib set openfl 9.3.0
 haxelib set lime 8.2.1
 haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp
+haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
 echo fucking done folks
 exit
