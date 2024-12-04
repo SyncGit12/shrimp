@@ -24,5 +24,6 @@ haxelib set flixel 4.11.0
 haxelib set flxanimate 3.0.4
 haxelib git hxCodec https://github.com/SyncGit12/hxCodec
 haxelib set openfl 9.3.0
-haxelib set lime
+haxelib set lime 8.2.1
+haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp
 echo Finished!
