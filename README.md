@@ -6,6 +6,5 @@ DANDYS WORLD CHROMATICS: https://www.youtube.com/watch?v=uSXW37uAmNc
 
 SOME SPRITES WERE TAKEN/EDITED FROM THE DANDY'S WORLD WIKI: https://dandys-world-robloxhorror.fandom.com/wiki/Dandy%27s_World_Wiki
 
-```ansi
-[0;2mDISCLAIMER: if theres anymore dandys world drama even after rox got fired, im privating this permanently[0m
-```
+$${\color{red}DISCLAIMER: if theres anymore dandys world drama even after rox got fired, im privating this permanently
+}$$
